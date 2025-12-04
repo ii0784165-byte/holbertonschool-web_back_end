@@ -1,0 +1,4 @@
+// 5-count
+
+// Display the number of documents in the "school" collection
+db.school.count();
