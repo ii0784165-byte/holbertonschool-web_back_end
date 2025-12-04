@@ -1,0 +1,4 @@
+// 1-use_or_create_database
+
+// Switch to the database my_db (creates it if it doesn't exist)
+use my_db;
