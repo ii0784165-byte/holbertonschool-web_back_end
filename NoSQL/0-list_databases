@@ -1,0 +1,4 @@
+// 0-list_databases
+
+// Connect to the MongoDB server and list all databases
+show dbs;
