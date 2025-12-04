@@ -1,0 +1,4 @@
+// 7-delete
+
+// Delete all documents with name "Holberton school" from the "school" collection
+db.school.deleteMany({ name: "Holberton school" });
